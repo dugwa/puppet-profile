@@ -4,7 +4,7 @@
   "author": "dugwa",
   "summary": "This is a profile module",
   "license": "Apache-2.0",
-  "source": "https://github.com/dugwa/puppet-profile",
+  "source": "https://github.com/dugwa/puppet-profile.git",
   "project_page": "https://github.com/dugwa/puppet-profile",
   "issues_url": "https://github.com/dugwa/puppet-profile/issues",
   "dependencies": [
